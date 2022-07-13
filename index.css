@@ -3,7 +3,7 @@ body {
 }
 
 #console {
-	font-family: courier, monospace;
+	font-family: Lucida Console, monospace;
 	color: #fff;
 	width:750px;
 	margin-left:auto;
