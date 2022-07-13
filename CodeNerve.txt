@@ -1,13 +1,11 @@
-i = 1
+<span id="a">i = 1</span>
 
-<span>while i < 2:</span>
-<span>          print("Again by djaysof and Aaron Rad")</span>
+<span id="a">while i < 2:</span>
+<span id="a">          print("Again by djaysof and Aaron Rad")</span>
 
+-- laglaglaglaglaglag -->
 
-
-<p></p>
-
-<p>
+<p id="a">
 Again by djaysof and Aaron Rad
 Again by djaysof and Aaron Rad
 Again by djaysof and Aaron Rad
