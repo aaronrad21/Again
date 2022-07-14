@@ -39,3 +39,13 @@ body {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+
+.first {
+            position: absolute;
+            background: #E73C49;
+            width: 300px;
+            height: 250px;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
